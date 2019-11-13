@@ -1,0 +1,26 @@
+body, html {
+  margin: 0;
+  padding:0;
+}
+
+body {
+  background-image: url('https://i.pinimg.com/564x/30/05/78/30057898781c8a0abac77f48c09e3ec4.jpg');
+}
+
+/* moving elements */
+/* glowing box src w3schools */
+#MovingLine1 {
+  box-shadow: 130px 40px 70px 30px #0ff;
+  padding: 3vmin;
+  transition: 1s;
+}
+
+#MovingLine2 {
+  box-shadow: 124px 40px 50px 30px #ff2dae;
+  padding: 4vmin;
+}
+
+#MovingLine3 {
+  box-shadow: 120px 40px 70px 30px #8C1C1C;
+  padding: 5vmin;
+}
